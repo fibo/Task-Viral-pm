@@ -9,6 +9,11 @@ package Task::Viral;
 
 This bundle includes all the stuff you need to build a chain of hosts with Perl installed.
 
+Suppose you have the following topology.
+
+    Internet <- host1 <--> host2
+
+
 =head1 STUFF INCLUDED
 
 =item Task::Pinto
