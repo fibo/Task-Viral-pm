@@ -1,9 +1,14 @@
+package Task::Viral;
 use strict;
 use warnings;
-package Task::Viral;
-# ABSTRACT: Conquering hosts
+
+our $VERSION = '0.01';
 
 1;
+
+=head1 NAME
+
+Task::Viral - Conquer hosts with a camel
 
 =head1 DESCRIPTION
 
@@ -16,11 +21,9 @@ Suppose you have the following topology.
 
 =head1 STUFF INCLUDED
 
-=item Task::Pinto
+=item CPAN::Mirror::Server::HTTP
 
-=item App::cpanminus 
-
-=item App::perlbrew
+=item CPAN::Mini::Inject
 
 =cut
 
