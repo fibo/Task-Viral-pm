@@ -21,9 +21,17 @@ Suppose you have the following topology.
 
 =head1 STUFF INCLUDED
 
-=item CPAN::Mirror::Server::HTTP
+=over 4
 
-=item CPAN::Mini::Inject
+=item *
+
+L<CPAN::Mirror::Server::HTTP>
+
+=item *
+
+L<CPAN::Mini::Inject>
+
+=back
 
 =cut
 
