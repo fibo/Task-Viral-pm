@@ -1,7 +1,7 @@
-Task::BeLike::FIBO
-==================
+Task::Viral
+===========
 
-This is a summary about my habits and a collection of modules I use when I write Perl code.
+> Conquer hosts with a camel
 
 To install, pray the mantra
 
@@ -10,8 +10,8 @@ To install, pray the mantra
     make test
     make install
 
-For more information point your browser to [online docs](https://metacpan.org/pod/Task::BeLike::FIBO).
+For more information point your browser to [online docs](https://metacpan.org/pod/Task::Viral).
 
 --------
-[![CPAN version](https://badge.fury.io/pl/Task-BeLike-FIBO.svg)](https://metacpan.org/pod/Task::BeLike::FIBO)
-[![Build Status](https://travis-ci.org/fibo/Task-BeLike-FIBO-pm.svg?branch=master)](https://travis-ci.org/fibo/Task-BeLike-FIBO-pm)
+[![CPAN version](https://badge.fury.io/pl/Task-Viral.svg)](https://metacpan.org/pod/Task::Viral)
+[![Build Status](https://travis-ci.org/fibo/Task-Viral-pm.svg?branch=master)](https://travis-ci.org/fibo/Task-Viral-pm)
