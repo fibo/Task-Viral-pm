@@ -19,6 +19,7 @@ WriteMakefile(
         },
     },
     PREREQ_PM => {
+        'CPAN'                       => '2.10',
         'CPAN::Mini::Inject'         => '0.33',
         'CPAN::Mirror::Server::HTTP' => '0.04',
     },
