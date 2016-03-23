@@ -2,7 +2,7 @@ package Task::Viral;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 1;
 
@@ -142,7 +142,7 @@ L<Private CPAN Distributions|http://www.drdobbs.com/web-development/private-cpan
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright © 2015 by L<G. Casati|http://g14n.info>.
+This software is copyright © III Millenium by L<G. Casati|http://g14n.info>.
 
 This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.
 
