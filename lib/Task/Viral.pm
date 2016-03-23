@@ -97,6 +97,8 @@ Now you can launch
 
     cpan Task::Viral
 
+=back
+
 and iterate steps on C<host-(i+1)> until last element in the C<host chain>, in this case C<production>.
 
 =head2 ADD YOUR PRIVATE DISTROS
@@ -115,8 +117,6 @@ Create your distro tarball, for instance C<My-Package-0.01.tar.gz>, and inject i
 Inject your module
 
     mcpani --inject -v
-
-=back
 
 =head1 STUFF INCLUDED
 
